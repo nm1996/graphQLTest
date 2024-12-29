@@ -1,0 +1,28 @@
+type ProductDto{
+    name: String
+    category: String
+    price: Float
+    stock: Int
+}
+
+
+input ProductInputDto{
+    name: String
+    category: String
+    price: Float
+    stock: Int
+}
+
+
+type Query{
+    getProducts: [ProductDto]
+    getProductsByCategoryId(categoryId: ID): [ProductDto]
+    getMostExpensive: ProductDto
+}
+
+
+type Mutation{
+    updateStock(id: ID, stock: Int): ProductDto
+    newShipment(id: ID, stock: Int): ProductDto
+    store(product: ProductInputDto): ProductDto
+}

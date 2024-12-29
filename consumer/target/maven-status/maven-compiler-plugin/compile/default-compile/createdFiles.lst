@@ -1,0 +1,8 @@
+com\nm\consumer\dto\ProductFetchDto.class
+com\nm\consumer\config\GraphQLServerProperties.class
+com\nm\consumer\service\ProductFetchService.class
+com\nm\consumer\dto\GraphQLResponseWrapper.class
+com\nm\consumer\config\GraphQLServerConfig.class
+com\nm\consumer\controller\ProductFetchController.class
+com\nm\consumer\query\ProductQueryBuilder.class
+com\nm\consumer\service\ProductFetchService$1.class
