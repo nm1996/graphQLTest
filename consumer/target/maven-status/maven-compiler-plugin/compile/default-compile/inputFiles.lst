@@ -1,8 +1,0 @@
-C:\Projects\graphql.demo\consumer\src\main\java\com\nm\consumer\Application.java
-C:\Projects\graphql.demo\consumer\src\main\java\com\nm\consumer\config\GraphQLServerConfig.java
-C:\Projects\graphql.demo\consumer\src\main\java\com\nm\consumer\config\GraphQLServerProperties.java
-C:\Projects\graphql.demo\consumer\src\main\java\com\nm\consumer\controller\ProductFetchController.java
-C:\Projects\graphql.demo\consumer\src\main\java\com\nm\consumer\dto\GraphQLResponseWrapper.java
-C:\Projects\graphql.demo\consumer\src\main\java\com\nm\consumer\dto\ProductFetchDto.java
-C:\Projects\graphql.demo\consumer\src\main\java\com\nm\consumer\query\ProductQueryBuilder.java
-C:\Projects\graphql.demo\consumer\src\main\java\com\nm\consumer\service\ProductFetchService.java
